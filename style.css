@@ -1,0 +1,43 @@
+.centerRow{
+    border: solid;
+    display: flex;
+    justify-content: center;
+
+}
+
+.form-group{
+    margin-top: 5vh;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: 400;
+}
+body{
+    background-image: linear-gradient(to right,#5B3543, #233C61);
+}
+
+#exampleInputPassword2{
+    margin-top: 15px;
+}
+.subRes-but{
+    color: white;
+    font-weight: 600;
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+    background-color: #302F3F;
+    border:none ;
+    border-radius: 5px;
+}
+
+.subRes-but:nth-of-type(2) {
+    font-weight: 400;
+}
+
+input  {
+    background-color: #302F3F !important;
+    border:none ;
+}
+
+#exampleFormControlTextarea1{
+    background-color: #302F3F !important;
+}
